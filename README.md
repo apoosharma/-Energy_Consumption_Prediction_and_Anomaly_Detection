@@ -1,6 +1,5 @@
-# First-Machine-Learning-Project
-Predicting how many medals each country will win in the olympics using a linear regression model.
 # Energy Consumption Prediction & Anomaly Detection
+Predicting how many medals each country will win in the olympics using a linear regression model.
 
 ## 📌 Overview
 This project predicts energy consumption and identifies anomalies using machine learning.
